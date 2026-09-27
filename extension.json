@@ -1,0 +1,17 @@
+{
+    "name": "GetClipboardData",
+    "command_name": "GetClipboardData",
+    "version": "0.0.1",
+    "extension_author": "hackerforce",
+    "original_author": "hackerforce",
+    "repo_url": "https://github.com/HackerForceDev/getclipboarddata",
+    "help": "A quick and dirty extension for Sliver C2 to retrieve the most recent data from a Windows host's clipboard.",
+    "entrypoint": "entrypoint",
+    "files": [
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "path": "GetClipboardData.x64.dll"
+        }
+    ]
+}
