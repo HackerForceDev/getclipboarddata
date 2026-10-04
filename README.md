@@ -1,6 +1,8 @@
 # GetClipboardData
 A quick and dirty extension for Sliver C2 to retrieve the most recent data from a Windows host’s clipboard. It was built for Sliver 1.5.43, though it should work with the latest release.
 
+This project was built for our article on [writing extensions in Sliver C2](https://hackerforce.io/blog/writing-extensions-in-sliver-c2/).
+
 # Installation
 
 Before installing the extension, extract the contents to a local directory using `tar`:
